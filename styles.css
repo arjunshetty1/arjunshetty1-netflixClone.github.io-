@@ -431,3 +431,9 @@ h2 .accordion-button{
     top: 4rem;
     right: 8rem;
 }
+
+::selection{
+    color: red;
+    /*background-color: black;*/
+   
+}
